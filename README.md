@@ -1,79 +1,84 @@
-<div align="center">
-
-# 👋 Olá, eu sou o Matheus F. Goulart!
-
 <p align="center">
-  🚀 <b>Desenvolvedor Full Stack</b> com foco em <b>Java</b>, <b>JavaScript</b>, <b>TypeScript</b>, <b>Node.js</b> e <b>APIs REST</b>.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=150&section=header&text=Matheus%20F.%20Goulart&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Matheusg0ulart">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vcenter=true&width=500&lines=Desenvolvedor+Full+Stack;Desenvolvedor+Java%2C+JS+%26+TS;Especialista+em+APIs+REST+%26+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=007ACC&center=true&vcenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!%F0%9F%90%A7;Desenvolvedor+Full+Stack;Java+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Desenvolvimento+Web+%26+Mobile" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+- 🚀 **Desenvolvedor Full Stack** com paixão por criar aplicações modernas, eficientes e de alto desempenho.
+- 💡 Experiência em desenvolvimento **Web & Mobile**, construindo desde **APIs RESTful** com **Java** e **Node.js** até interfaces reativas com **Angular**, **TypeScript** e **Flutter**.
+- 🤖 Entusiasta da integração de **Inteligência Artificial (Google Gemini AI)** e soluções de nuvem para otimizar processos.
+- 🎓 Constantemente aprimorando conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
+
+---
+
+### 🛠️ Principais Habilidades & Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,express,angular,flutter,dart,html,css,bootstrap,sqlite,supabase,git,github,vscode&perline=9" alt="Minhas Habilidades" />
   </a>
 </p>
 
 ---
 
-</div>
+### 📚 Estudando & Evoluindo Atualmente
 
-## 🛠️ Tecnologias & Ferramentas
-
-### **Backend & APIs**
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### **Frontend & Mobile**
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-### **Ferramentas & Inteligência Artificial**
-<p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,postgresql,react" alt="Estudando Atualmente" />
+  </a>
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+### 📌 Projetos em Destaque
+
+<div align="center">
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| 📚 **[Gerenciamento de Biblioteca](https://github.com/Matheusg0ulart/Gerenciamento-biblioteca-site)** | Sistema web para gestão de acervo literário, livros e autores com API REST. | `Angular 19`, `TypeScript`, `Bootstrap 5` |
-| 📱 **[Leitor de Código de Barras & Estoque](https://github.com/Matheusg0ulart/Leitor-de-codigo-de-barras)** | Leitor GTIN-13/GS1 com gestão de estoque e Dashboard preditivo alimentado por Inteligência Artificial. | `Flutter`, `Supabase`, `Gemini AI` |
+| 📚 **[Gerenciamento de Biblioteca](https://github.com/Matheusg0ulart/Gerenciamento-biblioteca-site)** | Sistema web para gestão de acervo literário, livros e autores com API REST simulada. | `Angular 19`, `TypeScript`, `Bootstrap 5` |
+| 📱 **[Leitor de Código de Barras & Estoque](https://github.com/Matheusg0ulart/Leitor-de-codigo-de-barras)** | Leitor GTIN-13/GS1 com gestão de estoque e Dashboard preditivo com IA. | `Flutter`, `Supabase`, `Gemini AI` |
 | 💵 **[Conversor de Dólar para Real](https://github.com/Matheusg0ulart/converso-dolar-para-real)** | Aplicação web de conversão de moedas bidirecional com formatação monetária reativa. | `HTML5`, `CSS3`, `JavaScript` |
+
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheusg0ulart&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheusg0ulart&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas de Matheusg0ulart" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusg0ulart&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="170" />
 </p>
 
 ---
 
+### 🤝 Conecte-se Comigo!
+
 <div align="center">
 
-🤝 **Conecte-se comigo!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-goulart)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matheusg0ulart)
+  <a href="https://www.linkedin.com/in/matheus-goulart" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Matheusg0ulart" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer" width="100%" alt="Footer Banner" />
+</p>
