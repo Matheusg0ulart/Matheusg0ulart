@@ -3,12 +3,12 @@
 # 👋 Olá, eu sou o Matheus F. Goulart!
 
 <p align="center">
-  🚀 <b>Desenvolvedor Full Stack & Backend</b> com foco em <b>Java</b>, <b>JavaScript</b>, <b>TypeScript</b>, <b>Node.js</b> e <b>APIs REST</b>.
+  🚀 <b>Desenvolvedor Full Stack</b> com foco em <b>Java</b>, <b>JavaScript</b>, <b>TypeScript</b>, <b>Node.js</b> e <b>APIs REST</b>.
 </p>
 
 <p align="center">
   <a href="https://github.com/Matheusg0ulart">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vcenter=true&width=500&lines=Desenvolvedor+Backend+%26+Java;Desenvolvedor+Full+Stack+JS+%2F+TS;Especialista+em+APIs+REST+%26+Sistemas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vcenter=true&width=500&lines=Desenvolvedor+Full+Stack;Desenvolvedor+Java%2C+JS+%26+TS;Especialista+em+APIs+REST+%26+Web" alt="Typing SVG" />
   </a>
 </p>
 
