@@ -3,12 +3,12 @@
 # 👋 Olá, eu sou o Matheus F. Goulart!
 
 <p align="center">
-  🚀 <b>Desenvolvedor Software & Mobile</b> com foco em <b>Flutter</b>, <b>Angular</b>, <b>TypeScript</b> e <b>Integrações com Inteligência Artificial</b>.
+  🚀 <b>Desenvolvedor Full Stack & Backend</b> com foco em <b>Java</b>, <b>JavaScript</b>, <b>TypeScript</b>, <b>Node.js</b> e <b>APIs REST</b>.
 </p>
 
 <p align="center">
   <a href="https://github.com/Matheusg0ulart">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vcenter=true&width=500&lines=Desenvolvedor+Flutter+%26+Mobile;Desenvolvedor+Angular+%26+Web;Apaixonado+por+Tecnologia+%26+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vcenter=true&width=500&lines=Desenvolvedor+Backend+%26+Java;Desenvolvedor+Full+Stack+JS+%2F+TS;Especialista+em+APIs+REST+%26+Sistemas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,27 +18,29 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### **Mobile & Frontend**
+### **Backend & APIs**
 <p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### **Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### **Backend & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### **Inteligência Artificial & Ferramentas**
+### **Ferramentas & Inteligência Artificial**
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -52,8 +54,8 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| 📱 **[Leitor de Código de Barras & Estoque](https://github.com/Matheusg0ulart/Leitor-de-codigo-de-barras)** | Leitor GTIN-13/GS1 com gestão de estoque e Dashboard preditivo alimentado por Inteligência Artificial. | `Flutter`, `Supabase`, `Gemini AI` |
 | 📚 **[Gerenciamento de Biblioteca](https://github.com/Matheusg0ulart/Gerenciamento-biblioteca-site)** | Sistema web para gestão de acervo literário, livros e autores com API REST. | `Angular 19`, `TypeScript`, `Bootstrap 5` |
+| 📱 **[Leitor de Código de Barras & Estoque](https://github.com/Matheusg0ulart/Leitor-de-codigo-de-barras)** | Leitor GTIN-13/GS1 com gestão de estoque e Dashboard preditivo alimentado por Inteligência Artificial. | `Flutter`, `Supabase`, `Gemini AI` |
 | 💵 **[Conversor de Dólar para Real](https://github.com/Matheusg0ulart/converso-dolar-para-real)** | Aplicação web de conversão de moedas bidirecional com formatação monetária reativa. | `HTML5`, `CSS3`, `JavaScript` |
 
 ---
